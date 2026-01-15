@@ -1,7 +1,7 @@
 # Hostel-Management-System
 
 GROUP MEMBERS:
-1. Valerie Anyango OLali  E020-01-0963/2023
+1. Valerie Anyango Olali  E020-01-0963/2023
 2. Collins Yator          E020-01-0908/2023
 3. Patrick Macharia       E020-01-1078/2022
 4. Arnold Kisuge          E020-01-0968/2023
