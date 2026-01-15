@@ -16,3 +16,19 @@ monitor payments for each tenant and can manage the tenant requests in coordinat
 
 Repository Link:
 https://github.com/Collins-Yator/Hostel-Management-System
+
+TEAM ROLES:
+
+GROUP MEMBERS:  
+1. Collins Yator :(Phase1)
+   Github Repository Setup.
+     
+2. Patrick Macharia and  Gideon Wafula:(Phase 2)
+   Software requirements specifications
+        
+3. Arnold Kisuge and Dorcus Cheruto  (Phase 3)
+   Jira setup and sprint planning
+       
+4. Peter Juma and Valerie Olali (Phase 4)
+    UML Modeling.                      
+
