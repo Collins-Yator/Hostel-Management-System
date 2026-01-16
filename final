@@ -1,0 +1,17 @@
+Hostel Management System Description
+A web-based Hostel Management System to manage students, rooms, and hostel records.
+
+Features
+- Student registration
+- Room allocation
+- Fee management
+- Admin dashboard
+ Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: (e.g., Java / PHP / Node.js)
+- Database: MySQL
+
+How to Run
+1. Clone the repository
+2. Configure the database
+3. Run the application
